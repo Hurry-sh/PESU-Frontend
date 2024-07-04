@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PESU-Frontend/static/css/main.0be22212.css",
+    "main.js": "/PESU-Frontend/static/js/main.7c3ff055.js",
+    "static/js/787.d133867e.chunk.js": "/PESU-Frontend/static/js/787.d133867e.chunk.js",
+    "static/media/banner2.jpg": "/PESU-Frontend/static/media/banner2.db688b4a587ef606817b.jpg",
+    "static/media/img9.webp": "/PESU-Frontend/static/media/img9.1d4f7f421bb75a5d7b5a.webp",
+    "index.html": "/PESU-Frontend/index.html",
+    "main.0be22212.css.map": "/PESU-Frontend/static/css/main.0be22212.css.map",
+    "main.7c3ff055.js.map": "/PESU-Frontend/static/js/main.7c3ff055.js.map",
+    "787.d133867e.chunk.js.map": "/PESU-Frontend/static/js/787.d133867e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be22212.css",
+    "static/js/main.7c3ff055.js"
+  ]
+}
