@@ -92,7 +92,7 @@ class MyClass extends React.Component {
     </section>
     <div className="row">
       <div className="campus-col">
-        <img src="/miniproject/img17.jpg" />
+        <img src="miniproject/img17.jpg" />
         <div className="layer">
           <h3>Electronic City Campus</h3>
         </div>
